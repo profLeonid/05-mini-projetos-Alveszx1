@@ -111,6 +111,14 @@ button:hover {
   justify-content: center;
 }
 
+.resultado.pesoBaixo{
+  background-color: #1e3a5f;
+}
+.resultado.pesoNormal{
+  background-color: #14532d;
+}
+.resultado.s
+
 footer {
   display: flex;
   align-items: flex-end;
