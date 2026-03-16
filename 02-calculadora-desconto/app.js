@@ -13,7 +13,7 @@ function calcularDesconto(){
     let valordesconto = Number(percentualDesconto.value)
     let descontoCalculado = preco - ((preco / 100) * valordesconto)
     let valorEconomizado = preco - descontoCalculado
-    
+                                                                            
     removerClasses()
     if (valordesconto <= 5 ){
         resultado.textContent = `O valor com desconto é ${descontoCalculado} reais, você economizou ${valorEconomizado} reais`
