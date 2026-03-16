@@ -117,7 +117,18 @@ button:hover {
 .resultado.pesoNormal{
   background-color: #14532d;
 }
-.resultado.s
+.resultado.sobrepeso{
+  background-color: #713f12;
+}
+.resultado.obesidade1{
+  background-color: #7f1d1d;
+}
+.resultado.obesidade2{
+  background-color: #6b0f0f;
+}
+.resultado.obesidade3{
+  background-color: #450a0a;
+}
 
 footer {
   display: flex;
